@@ -1,8 +1,8 @@
 class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
-<b>
-➥ MAIN CHANNEL-https://t.me/+BSzJAUCQshw1N2Nl
+<b>I AM GULERIA </b><b>
+➥ MAIN CHANNEL [Click Me](https://t.me/+BSzJAUCQshw1N2Nl)
 </b> <b>
 ➥ PO*N @hornhubbot
 </b> <b>
