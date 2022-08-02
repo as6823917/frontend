@@ -2,11 +2,11 @@ class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
 <b>
-➥ MAIN CHANNEL [Click Me](https://t.me/+BSzJAUCQshw1N2Nl)
+➥ MAIN CHANNEL-https://t.me/+BSzJAUCQshw1N2Nl
 </b> <b>
-➥ PO*N [Click Me](https://t.me/hornhubbot)
+➥ PO*N @hornhubbot
 </b> <b>
-➥ MOVIES [Click Me](https://t.me/guleriabot)
+➥ MOVIES @guleriabot
 </b>
  
     """
