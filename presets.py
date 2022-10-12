@@ -2,11 +2,11 @@ class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
 <b>I AM GULERIA </b><b>
-➥ MAIN CHANNEL https://t.me/+MHTrOGJHzh5hZjA1
+➥ MAIN CHANNEL @GuleriaOfficialsBot
 </b> <b>
-➥ PO*N @guleriabot
+➥ PO*N @GuleriaOfficialsBot
 </b> <b>
-➥ MOVIES @guleriabot
+➥ MOVIES @GuleriaOfficialsBot
 </b>
  
     """
