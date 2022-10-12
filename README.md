@@ -15,6 +15,8 @@ A Telegram bot to send messages and medias to the subscribers directly through b
   </a>
 </p>
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/5tkHg8?referralCode=CAqQ6O)
+
 ## Variables:
 
 * `API_HASH`    Your API Hash from my.telegram.org
