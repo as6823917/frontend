@@ -1,4 +1,3 @@
-# [Broadcast Bot](https://t.me/RMProjects)
 
 A Telegram bot to send messages and medias to the subscribers directly through bot.
 
@@ -32,29 +31,6 @@ send - send posts to the subscribers (Admin Only)
 subscribers - view subscribers count (Admin Only)
 ```
 
-## Deploy Locally:
-
-Create a `config.py` with the above variables (Refer sample_config.py)
-```
-git clone https://github.com/m4mallu/broadcast-bot
-cd broadcast-bot
-virtualenv -p python3 venv
-. ./venv/bin/activate
-pip3 install -r requirements.txt
-python3 bot.py
-```
-<br>
 
 
-#### [Join Telegram Bot Update Channel](https://t.me/RMProjects)
 
-For deploy locally : [How to create a database URI](https://telegra.ph/inline-directory-bot-help-06-19) | Refer
-Clonebot's help, to create a database.
-
-## Developer: [𝑅𝑒𝓃𝒿𝒾𝓉𝒽 𝑀𝒶𝓃𝑔𝒶𝓁](https://t.me/space4renjith)
-
-<p align="center">
-    <a href="https://t.me/space4renjith">
-        <img alt="GPL3" src ="https://telegra.ph/file/c4f778ccfc576a954dd20.gif" width="340" height="214"/>
-    </a>
-</p>
